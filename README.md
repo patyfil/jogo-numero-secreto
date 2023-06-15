@@ -2,7 +2,9 @@
   <img src="./app/capa.png" width="800"/> 
 </p>
 
-## Este curso abordou os seguintes tópicos:  
+[Link do Curso na Alura](https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz)  
+
+## Este curso tem CH: 6hs e abordou os seguintes tópicos:  
 ```
 •	Iniciamos o desenvolvimento do jogo de reconhecimento de voz com JavaScript do zero;  
 •	Estruturamos a página do jogo com HTML;  
@@ -24,6 +26,8 @@
 
 
 
-## Imagem Desktop e Mobile / Minha Versão
+## Imagem Desktop e Mobile / Minha Versão  
+<p align="center">
 <img src="./app/desktop.png" width="800"/>  
 <img src="./app/mobile.jpg" width="300"/>  
+</p>
