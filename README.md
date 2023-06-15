@@ -3,7 +3,7 @@
 </p>
 
 ## Este curso abordou os seguintes tópicos:  
-
+```
 •	Iniciamos o desenvolvimento do jogo de reconhecimento de voz com JavaScript do zero;  
 •	Estruturamos a página do jogo com HTML;  
 •	Escolhemos a fonte, as cores e estilizamos toda parte visual;  
@@ -20,10 +20,10 @@
 •	Adicionamos informações caso o dado de entrada seja válido, porém, diferente do objetivo;  
 •	Para melhorar a experiência de quem for jogar, criamos um botão para jogar novamente na tela de acerto;  
 •	Colocamos o jogo no GitHub e publicamos através da Vercel;  
-
+```
 
 
 
 ## Imagem Desktop e Mobile / Minha Versão
-<img src="./app/desktop.png" width="500"/>  
-<img src="./app/mobile.jpg" width="500"/>  
+<img src="./app/desktop.png" width="800"/>  
+<img src="./app/mobile.jpg" width="300"/>  
